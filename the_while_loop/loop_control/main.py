@@ -3,6 +3,7 @@ countries = ['Wales', 'Denmark', 'Belgium', 'Japan', 'South Korea', 'South Afric
 
 # List to hold selected countries
 selected = []
+#set index
 i = 0
 
 #iterate through the countries list with while loop selecting only 3 countries that start with "S" 
